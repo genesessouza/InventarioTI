@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\Cadastro\CadastroModelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Cadastro\CadastroProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Cadastro\CadastroSituacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Controle\Conector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Controle\ControleMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Controle\ControleModelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Controle\ControleSituacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Controle\Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Edicao\EdicaoEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Cadastro\CadastroMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Controle\ControleEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Controle\ControleProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Edicao\EdicaoMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Edicao\EdicaoModelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Edicao\EdicaoProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Edicao\EdicaoSituacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
